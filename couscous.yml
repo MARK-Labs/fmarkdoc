@@ -1,0 +1,30 @@
+# Base URL of the published website
+baseUrl: https://mark-labs.github.io/fmarkdoc/
+
+template:
+    url: https://github.com/CouscousPHP/Template-ReadTheDocs
+
+# Used to link to the GitHub project
+github:
+    user: myself
+    repo: my-project
+
+title: My project
+subTitle: This is a great project.
+
+# The left menu bar
+menu:
+    items:
+        home:
+            text: Home
+            # You can use relative urls
+            relativeUrl: .
+        user:
+            text: Users
+            # You can use relative urls
+            relativeUrl: USER.html
+        foo:
+            text: Another link
+            # Or absolute urls
+            absoluteUrl: https://example.com
+
