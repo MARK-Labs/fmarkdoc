@@ -1,8 +1,8 @@
 ---
-currentMenu: home
+currentMenu: feedback
 ---
 
-# Accelerate&trade; User Guide
+# Using the Social Feedback Loop&trade;
 
 The purpose of this guide is to provide an overview of the features of the Accelerate&trade; portal. Specifically you will learn how to:
 

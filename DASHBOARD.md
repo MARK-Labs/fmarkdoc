@@ -1,8 +1,8 @@
 ---
-currentMenu: home
+currentMenu: dashboard
 ---
 
-# Accelerate&trade; User Guide
+# The Accelerate&trade; Dashboard
 
 The purpose of this guide is to provide an overview of the features of the Accelerate&trade; portal. Specifically you will learn how to:
 
