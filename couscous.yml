@@ -30,3 +30,7 @@ menu:
             text: Exporting Data
             # You can use relative urls
             relativeUrl: export.html
+        faq:
+            text: FAQs
+            # You can use relative urls
+            relativeUrl: faq.html
