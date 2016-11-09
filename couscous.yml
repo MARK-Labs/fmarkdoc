@@ -1,16 +1,11 @@
 # Base URL of the published website
-baseUrl: https://mark-labs.github.io/fmarkdoc/
+baseUrl: https://mark-labs.github.io/fmarkdoc
 
 template:
-    url: https://github.com/CouscousPHP/Template-ReadTheDocs
+    url: https://github.com/MARK-Labs/Template-ReadTheDocs
 
-# Used to link to the GitHub project
-github:
-    user: myself
-    repo: my-project
-
-title: My project
-subTitle: This is a great project.
+title: Funder Portal User Guide
+subTitle: This is a complete guide for using funder.marklabs.co
 
 # The left menu bar
 menu:
@@ -22,9 +17,4 @@ menu:
         user:
             text: Users
             # You can use relative urls
-            relativeUrl: USER.html
-        foo:
-            text: Another link
-            # Or absolute urls
-            absoluteUrl: https://example.com
-
+            relativeUrl: user.html
