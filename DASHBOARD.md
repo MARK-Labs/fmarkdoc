@@ -12,4 +12,4 @@ To access this page, select "Home" from the menu.
 
 ## Single Dashboard
 
-To access this page, select "Organisations" from the menu.
+To access this page, select "Partners" from the menu.

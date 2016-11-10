@@ -14,7 +14,7 @@ To access this page, select "Stories" from the menu.
 
 Currently, you will be able to filter the content using the following:
 
-#### Organisation
+#### Partner
 
 You can filter results to only show content uploaded by one or more organisations.
 
