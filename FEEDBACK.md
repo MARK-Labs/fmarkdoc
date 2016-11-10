@@ -4,7 +4,7 @@ currentMenu: feedback
 
 # Using the Social Feedback Loop&trade;
 
-The Social Feedback Loop&trade; allows you to access rich media content about on the ground work that is happening by your social partners. They will have uploaded it using Impact&trade;.
+The Social Feedback Loop&trade; allows you to access rich media content about on the ground work that is happening by your partners. They will have uploaded it using Impact&trade;.
 
 ## Accessing the page
 
@@ -24,7 +24,7 @@ You can filter based on the type of content. Currently photos, videos, stories a
 
 #### Location
 
-When content is uploaded, your social partners will tag the content with a country. This will allow you to find results from a particular part of the world.
+When content is uploaded, your partners will tag the content with a country. This will allow you to find results from a particular part of the world.
 
 ## Viewing More Details
 
