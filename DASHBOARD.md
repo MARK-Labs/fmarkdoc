@@ -4,9 +4,12 @@ currentMenu: dashboard
 
 # The Accelerate&trade; Dashboard
 
-The purpose of this guide is to provide an overview of the features of the Accelerate&trade; portal. Specifically you will learn how to:
+The Accelerate&trade; dashboard gives you a way to view the performance of your social partners. It contains two screens which can be accessed from left menu; the overall view that gives you aggregated results across all your partners and the single view where you can view the details of one partner at a time.
 
-#### 1. Manage your user profile.
-#### 2. Manage your dashboard.
-#### 3. Use the Social Feedback Loop&trade;.
-#### 4. Export Performance Data.
+## Aggregated Dashboard
+
+To access this page, select "Home" from the menu.
+
+## Single Dashboard
+
+To access this page, select "Organisations" from the menu.

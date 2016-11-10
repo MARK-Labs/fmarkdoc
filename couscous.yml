@@ -15,7 +15,7 @@ menu:
             # You can use relative urls
             relativeUrl: .
         user:
-            text: User Profile
+            text: Your Account
             # You can use relative urls
             relativeUrl: user.html
         dashboard:
